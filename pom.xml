@@ -68,6 +68,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>springboot-mongo-docker-movies</finalName>
 	</build>
 
 </project>
